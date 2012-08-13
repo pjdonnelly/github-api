@@ -16,7 +16,7 @@
             </inputs>
             <execute>
                 <![CDATA[
-                    this is my test
+                    
                 ]]>
             </execute>
         </select>
